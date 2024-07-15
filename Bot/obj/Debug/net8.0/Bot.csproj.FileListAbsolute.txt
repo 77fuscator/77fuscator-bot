@@ -1,0 +1,57 @@
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\geniussolution CLI.deps.json
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\geniussolution CLI.runtimeconfig.json
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\geniussolution CLI.exe
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Bot.exe
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Bot.deps.json
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Bot.runtimeconfig.json
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Bot.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Bot.pdb
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\ConcurrentCollections.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Discord.Net.Commands.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Discord.Net.Core.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Discord.Net.Interactions.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Discord.Net.Rest.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Discord.Net.Webhook.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Discord.Net.WebSocket.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\DSharpPlus.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\DSharpPlus.CommandsNext.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\DSharpPlus.Interactivity.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\DSharpPlus.Lavalink.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\DSharpPlus.Rest.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\DSharpPlus.SlashCommands.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\GParse.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\HSNXT.DSharpPlus.Extended.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\JetBrains.Annotations.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Loretta.CodeAnalysis.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Loretta.CodeAnalysis.Lua.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Loretta.CodeAnalysis.Lua.Experimental.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\MoonSharp.Interpreter.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\SimpleBase.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\System.Interactive.Async.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\System.Linq.Async.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\Tsu.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\runtimes\win-x64\native\libopus.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\runtimes\win-x64\native\libsodium.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\runtimes\win-x86\native\libopus.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\runtimes\win-x86\native\libsodium.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\geniussolution CLI.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\geniussolution.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\geniussolution CLI.pdb
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\bin\Debug\net8.0\geniussolution.pdb
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\obj\Debug\net8.0\Bot.csproj.AssemblyReference.cache
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\obj\Debug\net8.0\Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\obj\Debug\net8.0\Bot.AssemblyInfoInputs.cache
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\obj\Debug\net8.0\Bot.AssemblyInfo.cs
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\obj\Debug\net8.0\Bot.csproj.CoreCompileInputs.cache
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\obj\Debug\net8.0\Bot.csproj.Up2Date
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\obj\Debug\net8.0\Bot.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\obj\Debug\net8.0\refint\Bot.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\obj\Debug\net8.0\Bot.pdb
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\obj\Debug\net8.0\Bot.genruntimeconfig.cache
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\Bot\obj\Debug\net8.0\ref\Bot.dll

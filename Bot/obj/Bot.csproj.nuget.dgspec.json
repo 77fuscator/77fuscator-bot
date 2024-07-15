@@ -1,0 +1,662 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\Bot\\Bot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\77main CLI\\geniussolution CLI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\77main CLI\\geniussolution CLI.csproj",
+        "projectName": "geniussolution CLI",
+        "projectPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\77main CLI\\geniussolution CLI.csproj",
+        "packagesPath": "C:\\Users\\troll\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\77main CLI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\troll\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\77main\\geniussolution.csproj": {
+                "projectPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\77main\\geniussolution.csproj"
+              },
+              "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\geniussolution.csproj": {
+                "projectPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\geniussolution.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DSharpPlus": {
+              "target": "Package",
+              "version": "[4.4.9, )"
+            },
+            "DSharpPlus.CommandsNext": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "DSharpPlus.Interactivity": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "DSharpPlus.SlashCommands": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Commands": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Core": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Interactions": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Rest": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.WebSocket": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Webhook": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Loretta.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[0.2.12, )"
+            },
+            "Loretta.CodeAnalysis.Lua": {
+              "target": "Package",
+              "version": "[0.2.12, )"
+            },
+            "Loretta.CodeAnalysis.Lua.Experimental": {
+              "target": "Package",
+              "version": "[0.2.12, )"
+            },
+            "SimpleBase": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Tsu": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\77main\\geniussolution.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\77main\\geniussolution.csproj",
+        "projectName": "geniussolution",
+        "projectPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\77main\\geniussolution.csproj",
+        "packagesPath": "C:\\Users\\troll\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\77main\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\troll\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DSharpPlus": {
+              "target": "Package",
+              "version": "[4.4.9, )"
+            },
+            "DSharpPlus.CommandsNext": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "DSharpPlus.Interactivity": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "DSharpPlus.SlashCommands": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Commands": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Core": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Interactions": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Rest": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.WebSocket": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Webhook": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Loretta.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[0.2.12, )"
+            },
+            "Loretta.CodeAnalysis.Lua": {
+              "target": "Package",
+              "version": "[0.2.12, )"
+            },
+            "Loretta.CodeAnalysis.Lua.Experimental": {
+              "target": "Package",
+              "version": "[0.2.12, )"
+            },
+            "SimpleBase": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.6.0-preview.18571.3, )"
+            },
+            "Tsu": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\Bot\\Bot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\Bot\\Bot.csproj",
+        "projectName": "Bot",
+        "projectPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\Bot\\Bot.csproj",
+        "packagesPath": "C:\\Users\\troll\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\Bot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\troll\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\77main CLI\\geniussolution CLI.csproj": {
+                "projectPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\77main CLI\\geniussolution CLI.csproj"
+              },
+              "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\77main\\geniussolution.csproj": {
+                "projectPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\77main\\geniussolution.csproj"
+              },
+              "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2 CLI\\geniussolution CLI.csproj": {
+                "projectPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2 CLI\\geniussolution CLI.csproj"
+              },
+              "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\geniussolution.csproj": {
+                "projectPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\geniussolution.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DSharpPlus": {
+              "target": "Package",
+              "version": "[4.4.9, )"
+            },
+            "DSharpPlus.CommandsNext": {
+              "target": "Package",
+              "version": "[4.4.9, )"
+            },
+            "DSharpPlus.Interactivity": {
+              "target": "Package",
+              "version": "[4.4.9, )"
+            },
+            "DSharpPlus.Lavalink": {
+              "target": "Package",
+              "version": "[4.4.9, )"
+            },
+            "DSharpPlus.Rest": {
+              "target": "Package",
+              "version": "[4.4.9, )"
+            },
+            "DSharpPlus.SlashCommands": {
+              "target": "Package",
+              "version": "[4.4.9, )"
+            },
+            "DSharpPlus.VoiceNext.Natives": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[3.15.2, )"
+            },
+            "Discord.Net.Interactions": {
+              "target": "Package",
+              "version": "[3.15.2, )"
+            },
+            "Discord.Net.WebSocket": {
+              "target": "Package",
+              "version": "[3.15.2, )"
+            },
+            "GParse": {
+              "target": "Package",
+              "version": "[5.0.0-alpha.10, )"
+            },
+            "HSNXT.DSharpPlus.Extended": {
+              "target": "Package",
+              "version": "[5.0.0-pre.210, )"
+            },
+            "MoonSharp": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "SimpleBase": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2 CLI\\geniussolution CLI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2 CLI\\geniussolution CLI.csproj",
+        "projectName": "geniussolution CLI",
+        "projectPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2 CLI\\geniussolution CLI.csproj",
+        "packagesPath": "C:\\Users\\troll\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2 CLI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\troll\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\geniussolution.csproj": {
+                "projectPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\geniussolution.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DSharpPlus": {
+              "target": "Package",
+              "version": "[4.4.9, )"
+            },
+            "DSharpPlus.CommandsNext": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "DSharpPlus.Interactivity": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "DSharpPlus.SlashCommands": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Commands": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Core": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Interactions": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Rest": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.WebSocket": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Webhook": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Loretta.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[0.2.12, )"
+            },
+            "Loretta.CodeAnalysis.Lua": {
+              "target": "Package",
+              "version": "[0.2.12, )"
+            },
+            "Loretta.CodeAnalysis.Lua.Experimental": {
+              "target": "Package",
+              "version": "[0.2.12, )"
+            },
+            "SimpleBase": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Tsu": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\geniussolution.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\geniussolution.csproj",
+        "projectName": "geniussolution",
+        "projectPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\geniussolution.csproj",
+        "packagesPath": "C:\\Users\\troll\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\troll\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DSharpPlus": {
+              "target": "Package",
+              "version": "[4.4.9, )"
+            },
+            "DSharpPlus.CommandsNext": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "DSharpPlus.Interactivity": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "DSharpPlus.SlashCommands": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Commands": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Core": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Interactions": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Rest": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.WebSocket": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Discord.Net.Webhook": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Loretta.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[0.2.12, )"
+            },
+            "Loretta.CodeAnalysis.Lua": {
+              "target": "Package",
+              "version": "[0.2.12, )"
+            },
+            "Loretta.CodeAnalysis.Lua.Experimental": {
+              "target": "Package",
+              "version": "[0.2.12, )"
+            },
+            "SimpleBase": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.6.0-preview.18571.3, )"
+            },
+            "Tsu": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
